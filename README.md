@@ -16,7 +16,7 @@
 ## 🗂️ Projetos em destaque
   _Objetivo:_ praticar HTML/CSS/JS e escrever um bom README
 
-> Assim que os repositórios estiverem públicos, adiciono os links aqui.
+Acesse: https://yurihay.github.io/eco-bytes-calculadora/
 
 ## 📫 Onde me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/yuri-hayashida-0b561044/
